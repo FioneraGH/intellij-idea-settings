@@ -1,0 +1,122 @@
+<application>
+  <component name="AppInspectionProfilesVisibleTreeState">
+    <entry key="Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Correctness</id>
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Internationalization</id>
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Usability</id>
+          </State>
+          <State>
+            <id>Dependency issuesJava</id>
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Android</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ErrorReportConfigurable">
+    <option name="ITN_LOGIN" value="" />
+    <option name="ITN_PASSWORD_CRYPT" value="" />
+    <option name="KEEP_ITN_PASSWORD" value="false" />
+    <option name="EMAIL" value="" />
+  </component>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/usr/local/opt/node@8/bin/node" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ColorChooser.RecentColors" value="0-115-191-255,,,84-170-227-255,,,31-127-54-255,,,38-193-88-255,,,85-146-251-255,,,126-135-63-255,,,0-0-0-255,,,255-255-255-255,,,67-108-236-255,,,208-214-90-255,,,195-195-195-255,,,35-141-62-255,,,85-146-248-255" />
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.8349359" />
+    <property name="CommittedChanges.SplitterProportions.0" value="700" />
+    <property name="CommittedChanges.SplitterProportions.1" value="500" />
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="DBE.Default.Dialect" value="" />
+    <property name="DbRenameDialog.previewExpanded" value="true" />
+    <property name="Default.savedEditorTheme" value="Custom" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="FileTemplates.SelectedTemplate" value="HTML File" />
+    <property name="FrameworksFinderRecursivePanel[0]" value="0.109529026" />
+    <property name="FrameworksFinderRecursivePanel[1]" value="0.12307692" />
+    <property name="FrameworksFinderRecursivePanel[2]" value="0.14044943" />
+    <property name="JUnitSupport.hidePassedTests" value="false" />
+    <property name="KEYMAP" value="Actions&#10;Action" />
+    <property name="LayoutCode.optimizeImports" value="false" />
+    <property name="LayoutCode.rearrangeEntriesPlain text" value="false" />
+    <property name="LiveContextsPanel[0]" value="0.11204482" />
+    <property name="LiveContextsPanel[1]" value="0.41450217" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="PLUGIN_FILTER" value="Vue&#10;api&#10;mybatis&#10;ALibab" />
+    <property name="PluginConfigurable.selectionTab" value="1" />
+    <property name="SearchEveryWhereHistory" value="DeleteLogic&#10;Order&#10;Financial&#10;checkSettlement&#10;Finche" />
+    <property name="SettingsSearchHistory" value="remote&#10;gradle&#10;update&#10;html&#10;terminal" />
+    <property name="SpringBeansModulesPanel[0]" value="0.109529026" />
+    <property name="SpringBeansModulesPanel[1]" value="0.12307692" />
+    <property name="SpringBeansModulesPanel[2]" value="0.14044943" />
+    <property name="SpringBeansModulesPanel[3]" value="0.40453073" />
+    <property name="SpringRepositoriesModulesPanel[0]" value="0.13297872" />
+    <property name="SqlStructureView.filterD.file.structure.state" value="true" />
+    <property name="TrendingPluginsSearchHistory" value="flutter" />
+    <property name="build.toolwindow.Sync.selection.state" value="consoleView" />
+    <property name="build.toolwindow.run.selection.state" value="consoleView" />
+    <property name="com.intellij.database.view.ui.DeleteDialog.previewExpanded" value="true" />
+    <property name="com.intellij.diagnostic.IdeErrorsDialogactiveTab" value="-1" />
+    <property name="com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor" value="Dependencies" />
+    <property name="completion.stats.allow.message.shown" value="true" />
+    <property name="completion.stats.experiment.salt" value="dd66e3db" />
+    <property name="completion.stats.experiment.version" value="2" />
+    <property name="create.project.preferred.importer" value="Existing Sources" />
+    <property name="decompiler.legal.notice.accepted" value="true" />
+    <property name="defaultJdkConfigured" value="true" />
+    <property name="evlsprt.IU-181.4096.5" value="16294ad0656" />
+    <property name="evlsprt2.IU-181.4096.5" value="1623c0a75c4" />
+    <property name="evlsprt3.181" value="16" />
+    <property name="evlsprt3.182" value="14" />
+    <property name="evlsprt3.183" value="10" />
+    <property name="evlsprt3.IU-181.3494.3" value="11" />
+    <property name="evlsprt3.IU-181.3870.7" value="10" />
+    <property name="evlsprt3.IU-181.3986.9" value="19" />
+    <property name="evlsprt3.IU-181.4096.5" value="18" />
+    <property name="evlsprt3.IU-181.4203.6" value="17" />
+    <property name="evlsprt3.IU-182.3458.5" value="16" />
+    <property name="evlsprt3.IU-182.3569.1" value="15" />
+    <property name="evlsprt3.IU-182.3684.2" value="15" />
+    <property name="export.settings.path" value="$USER_HOME$/Git/Conf/idea_settings/ideam_settings.jar" />
+    <property name="file.gist.reindex.count" value="51583" />
+    <property name="fileTypeChangedCounter" value="2" />
+    <property name="installed.kotlin.plugin.version" value="1.3.11-release-IJ2018.3-1" />
+    <property name="io.flutter.analytics.clientId" value="a6fdf8cb-0e2c-4c40-ad6e-228596e80c0c" />
+    <property name="io.flutter.analytics.optOut" value="true" />
+    <property name="io.flutter.analytics.toastShown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="11" />
+    <property name="kotlin.lastUpdateCheck" value="1545449236123" />
+    <property name="last.imported.location" value="$USER_HOME$/Git/jgz_monitor" />
+    <property name="last.used.gradle.home" value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.0-rc-3-all/13ravx4663pxa0fjhm1igch0y/gradle-5.0-rc-3" />
+    <property name="lastTip" value="2" />
+    <property name="project.wizard.group" value="JAVA_MODULE" />
+    <property name="project.wizard.template" value="Empty Project" />
+    <property name="search.everywhere.max.popup.width" value="966" />
+    <property name="selected.color.option.type" value="KOTLIN_INSTANCE_PROPERTY" />
+    <property name="settings.code.style.selected.tab.HTML" value="Other" />
+    <property name="settings.code.style.selected.tab.JAVA" value="Wrapping and Braces" />
+    <property name="spring.initializr.service.url.history" value="" />
+    <property name="spring.initializr.service.url.last" value="https://start.spring.io" />
+    <property name="ts.lib.d.ts.version" value="3.2.1" />
+  </component>
+</application>
