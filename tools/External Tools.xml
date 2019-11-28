@@ -6,4 +6,11 @@
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
+  <tool name="JDGui" description="JDGui" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="$JDKPath$/bin/java" />
+      <option name="PARAMETERS" value="-jar /Users/fionera/Misc/reverse-tools/jd-gui/jd-gui-1.4.0.jar $FilePath$" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Misc/reverse-tools/jd-gui" />
+    </exec>
+  </tool>
 </toolSet>
