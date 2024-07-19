@@ -1,6 +1,0 @@
-<application>
-  <component name="NotificationConfiguration">
-    <notification groupId="Kotlin plugin updates" displayType="STICKY_BALLOON" shouldLog="false" />
-    <notification groupId="Plugin Errors" displayType="NONE" />
-  </component>
-</application>
